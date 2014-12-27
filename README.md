@@ -6,11 +6,13 @@ Bone2Cloud (Local) will allow you to control the LEDs on your BeagleBone Black (
 Getting Started
 
 What you'll need:
+----------------
 
 Beaglebone back Rev C.
 for Windows user, you need to have Putty
 
-Installation
+Installation:
+------------
 
 Make sure you have an Internet connection through a network cable or Wifi. Connect to the BeagleBone Black by SSH. Set the current time just to be sure:
 /usr/bin/ntpdate -b -s -u pool.ntp.org
@@ -26,7 +28,7 @@ cp bone2cloud_local/*  /var/lib/cloud9/
 cd /var/lib/cloud9/
 node bone2cloud_local.js
 
- you'll see something like this:
+you'll see something like this
 ----------------------------------
 -   Bone2Cloud (Local) v 0.0.4   -
 ----------------------------------
