@@ -1,7 +1,7 @@
 bone2cloud_local
 ================
 
-Bone2Cloud (Local) will allow you to control the LEDs on your BeagleBone Black (BBB) from your browser using Socket.IO and BoneScript to control a BeagleBone Black from a remote device. You'll be able to turn on/off LED's from a mobile device (cell phone, tablet) and read analog voltages from the 7 ADCs. The code uses Node.js as the web server, Socket.IO for communication between the web page and the BeagleBone Black, and Mobile JQuery for the web page lay-out.
+Bone2Cloud (Local) will allow you to control the LEDs on your BeagleBone Black (BBB) from your browser using Socket.IO and BoneScript. You'll be able to turn on/off LED's from a mobile device (cell phone, tablet) and read analog voltages from the 7 ADCs. The code uses Node.js as the web server, Socket.IO for communication between the web page and the BeagleBone Black, and Mobile JQuery for the web page lay-out.
 
 Getting Started
 
