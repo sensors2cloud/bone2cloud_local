@@ -28,7 +28,7 @@ cp bone2cloud_local/*  /var/lib/cloud9/
 cd /var/lib/cloud9/
 node bone2cloud_local.js
 
-you'll see something like this
+you'll see something like this:
 ----------------------------------
 -   Bone2Cloud (Local) v 0.0.4   -
 ----------------------------------
