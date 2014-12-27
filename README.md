@@ -40,6 +40,6 @@ More info
 
 Visit Sensors2cloud  for more information at http://www.sensors2cloud.com/openhw
 
-Written by Sensors2cloud Inc.,.
+Written by Sensors2cloud Inc.,
 
 MIT License. All text above must be included in any redistribution.
